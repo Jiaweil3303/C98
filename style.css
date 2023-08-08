@@ -1,0 +1,22 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    transition: 3s;
+
+}
+#camera:hover{
+    transform: scaleX(50);
+    transition: 5s;
+}
+
+#p{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
